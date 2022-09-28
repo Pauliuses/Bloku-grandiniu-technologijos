@@ -54,3 +54,9 @@ Tyrimui buvo naudojami 4 tekstiniai failai: **10x25000.txt**, **100x25000.txt**,
 
 # Išvados
 Šios maišos funkcijos stiprioji pusė yra trumpas veikimo laikas. Su dideliais failas nekilo sunkumų ir programa greitai pateikdavo maišos funkcijos rezultatą. Galima teigti, jog dirbant su dar didesniais simbolių eilučių kiekiais atsirastų kolizijų, todėl programą būtų galima tobulinti iki kol kolizijų skaičius sumažėtų iki minimumo.
+
+# Kaip pasileisti programą
+- Parsisiųsti ir įsidiegti C++ kompiliatorių
+- Norint sukompiliuoti programą terminale rašykite **make**
+- Norint paleisti programą terminale rašykite **./prog**
+- n
