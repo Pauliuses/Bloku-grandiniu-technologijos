@@ -59,4 +59,3 @@ Tyrimui buvo naudojami 4 tekstiniai failai: **10x25000.txt**, **100x25000.txt**,
 - Parsisiųsti ir įsidiegti C++ kompiliatorių
 - Norint sukompiliuoti programą terminale rašykite **make**
 - Norint paleisti programą terminale rašykite **./prog**
-- n
