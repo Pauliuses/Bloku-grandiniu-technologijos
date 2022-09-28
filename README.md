@@ -15,7 +15,7 @@
 - **1000x25000.txt**, kuriame yra 25000 eilučių po 1000 simbolių
 - **difsymbol.txt**, kuris turi 200000 porų kurios skiriasi 1 simboliu
 - **huge.txt**, kuris turi 32000000 simbolių
-- **konstitucija.txt**, kuris turi pateiktą konstitucijos tekstą
+- **konstitucija.txt**, kuris turi dėstytojų pateiktą konstitucijos tekstą
 
 # Maišos funkcijos rezultatai
 Naudojant failą **g.txt** gaunamas outputas:
