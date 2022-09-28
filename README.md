@@ -42,6 +42,10 @@ Naudojant failą **empty.txt** gaunamas outputas:
 # Maišos funkcijos trukmės priklausomybė nuo simbolių (teksto) kiekio:
 ![image](https://user-images.githubusercontent.com/100035297/192889674-ad062e6a-7172-48cb-bb52-75f7bebc5a77.png)
 
+# Maišos funkcijos trukmės priklausomybe nuo eilučių kiekio:
+![image](https://user-images.githubusercontent.com/100035297/192897033-1b74c751-02bb-49a8-80e8-8bf0e66d6325.png)
+
+
 # Atsparumo kolizijai tyrimas
 Tyrimui buvo naudojami 4 tekstiniai failai: **10x25000.txt**, **100x25000.txt**, **500x25000.txt**, **1000x25000.txt**
 ![image](https://user-images.githubusercontent.com/100035297/192890213-28a179f5-0da6-4e25-bf35-7e4cda27a35d.png)
